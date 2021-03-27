@@ -23,7 +23,8 @@ Link{
 ```
 To run this project. 
 
-```git clone https://github.com/niranjan-n/HTML-Parser.git
+```
+git clone https://github.com/niranjan-n/HTML-Parser.git
 
 go run example1/main.go
 
