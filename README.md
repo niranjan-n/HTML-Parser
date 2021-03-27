@@ -21,3 +21,16 @@ Link{
   Text: "Something in a span Text not in a span Bold text!",
 }
 ```
+To run this project. 
+
+```git clone https://github.com/niranjan-n/HTML-Parser.git
+
+go run example1/main.go
+
+go run example2/main.go
+
+go run example3/main.go
+
+go run example4/main.go
+```
+
